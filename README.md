@@ -22,8 +22,8 @@ facilities.
 Welcome and presentation.
 
 ### Monday
-1. Morning: workshop forums. Each participant will be given the opportunity to suggest and or pick paper to present as lightning talks durign the workshops from Tuesday to  Thursday
-2. Afternoon: Plenary Talks
+1. **Morning:** workshop forums. Each participant will be given the opportunity to suggest and or pick paper to present as lightning talks durign the workshops from Tuesday to  Thursday
+2. **Afternoon:** Plenary Talks
 
 ### Tuesday to Thursday:
 Thematic workshops will be organized to present the participants works and work that is presented at ICML.
@@ -31,8 +31,8 @@ Thematic workshops will be organized to present the participants works and work 
 Each workshop will be organized in 2 sessions, one in the morning 10:30-12:30, and one in the afternoon, 14:30-16:30.
 
 Two types of talks will be considered:
-1. Your own work. 20 min talk on a recently published or submitted paper (ICML23 or not)
-2. An ICML paper of your choice:  5 min lightning talk
+1. **Your own work.** 20 min talk on a recently published or submitted paper (ICML23 or not)
+2. **An ICML paper of your choice:**  5 min lightning talk
 
 Tentative list of workshops:
 1. Optimal transport and kernel methods
