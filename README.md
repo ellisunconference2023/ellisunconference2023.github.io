@@ -25,22 +25,25 @@ Welcome and presentation.
 1. **Morning:** workshop forums. Each participant will be given the opportunity to suggest and or pick paper to present as lightning talks durign the workshops from Tuesday to  Thursday
 2. **Afternoon:** Plenary Talks
 
+3. **Poster session** - bring your posters - ICML and  others.
+
 ### Tuesday to Thursday:
 Thematic workshops will be organized to present the participants works and work that is presented at ICML.
 
 Each workshop will be organized in 2 sessions, one in the morning 10:30-12:30, and one in the afternoon, 14:30-16:30.
 
 Two types of talks will be considered:
-1. **Your own work.**  20 min talk on a recently published or submitted paper (ICML23 or not)
-2. **An ICML paper of your choice:**   5 min lightning talk
+1. **Your own work.**  -  20 min talk on a recently published or submitted paper (ICML23 or not)
+2. **An ICML paper of your choice:**  - 5 min lightning talk
 
 Tentative list of workshops:
 1. Optimal transport and kernel methods
-2. Stochastic Optimization
-3. Robustness, fairness and explainability
-4. Generative models
+2. Theory of ML.
+3. Stochastic Optimization.
+4. Robustness, fairness and explainability
+5. Generative models
+6. Reinforcement Learning
 
-In the evening, a night session will be organized.
 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&mode=WEEK&hl=en&src=ZTA4ODZjZDcwMmQ0Njg5YzE0MDZmZDQxOWVjMjI3Yjg5MGM3M2U4NmQ0OTcyYzYxYTRiYTgzNTI3YjA0MDAyMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%234285F4&dates=20230723/20230729" width="800" height="600" frameborder="0" scrolling="no"></iframe>
