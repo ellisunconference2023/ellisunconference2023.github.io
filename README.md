@@ -1,4 +1,4 @@
-# ELLIS Unconference 2023 in Paris
+
 This year ICML is in Hawaii. You may not have been lucky enough to have enough funds to go, or you may simply have a few qualms about flying 20,000 km for a mere 4.2 tonnes of CO2. Nevertheless, you regret not being able to present your work, to find the atmosphere of a conference, with people working on subjects close to yours and with whom you could have productive discussions. Here's your chance to attend
 
 2nd Ellis Unconference, on the HEC campus in Paris, Hawai in Paris, July 23-28 .
@@ -15,5 +15,11 @@ We invite you to book accommodation on site, as the idea is really to stay
 together. The campus is very pleasant, with nice walks and easy access to sports
 facilities.
 
-<img src="imgs/hiparis.png" alt="Hi Paris">
-<img src="imgs/ellis.png" alt="ELLIS">
+## Program
+
+<iframe src="https://calendar.google.com/calendar/embed?src=e0886cd702d4689c1406fd419ec227b890c73e86d4972c61a4ba83527b040022%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Partners
+
+<img src="imgs/hiparis.png" alt="Hi Paris" style="height:150px;">
+<img src="imgs/ellis.png" alt="ELLIS" style="height:150px;">
