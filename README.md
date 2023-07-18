@@ -28,7 +28,7 @@ Welcome and presentation.
 3. **Poster session** - bring your posters - ICML and  others.
 
 ### Tuesday to Thursday:
-Thematic workshops will be organized to present the participants works and work that is presented at ICML.
+Thematic workshops will be organized to present the participants accepted papers and works that are presented at ICML.
 
 Each workshop will be organized in 2 sessions, one in the morning 10:30-12:30, and one in the afternoon, 14:30-16:30.
 
