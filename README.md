@@ -16,8 +16,21 @@ together. The campus is very pleasant, with nice walks and easy access to sports
 facilities.
 
 ## Program
+Format and program:
+### Sunday
+
+### Monday
+
+### Tuesday to Thursday:Thematic workshops will be organized to present the participants works and work that is presented at ICML.
+
+Each workshop will be organized in 2 sessions, one in the morning 10:30-12:30, and one in the afternoon, 14:30-16:30.
+Two types of talks will be considered:1. Your own work. 20 min talk on a recently published or submitted paper (IMCL23 or not)2. An ICML paper of your choice:  5 min lightning talk
+
 
 <iframe src="https://calendar.google.com/calendar/embed?src=e0886cd702d4689c1406fd419ec227b890c73e86d4972c61a4ba83527b040022%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
 
 ## Partners
 
