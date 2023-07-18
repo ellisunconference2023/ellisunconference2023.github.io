@@ -19,10 +19,16 @@ facilities.
 ## Program
 Format and program:
 ### Sunday
+Welcome and presentation
+
 
 ### Monday
+1. Morning: workshop forums. Each participant will be given the opportunity to suggest and or pick paper to present as lightning talks durign the workshops from Tuesday to  Thursday
+2. Afternoon: Plenary Talks
 
-### Tuesday to Thursday:Thematic workshops will be organized to present the participants works and work that is presented at ICML.
+
+### Tuesday to Thursday:
+Thematic workshops will be organized to present the participants works and work that is presented at ICML.
 
 Each workshop will be organized in 2 sessions, one in the morning 10:30-12:30, and one in the afternoon, 14:30-16:30.
 
@@ -35,6 +41,9 @@ Tentative list of workshops:
 2. Stochastic Optimization
 3. Robustness, fairness explainability
 4. Generative models
+
+In the evening, a night session will be organized.
+
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&mode=WEEK&title=ELLIS%20Unconference%202023&showNav=1&hl=en&src=ZTA4ODZjZDcwMmQ0Njg5YzE0MDZmZDQxOWVjMjI3Yjg5MGM3M2U4NmQ0OTcyYzYxYTRiYTgzNTI3YjA0MDAyMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF&dates=20230723/20230729" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
