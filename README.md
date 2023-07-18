@@ -11,4 +11,9 @@ As night falls, we will provide opportunities to connect live to ICML tutorials,
 
 All this is free for Scholar / Fellow Ellis and Hi! members. Paris members. It's also free for two students chosen by Scholar / Fellow Ellis. For the others, you'll have to pay, but the costs are affordable, and cover everything from conference participation to lunches and dinners, and tutorial evenings! There'll be plenty of other stuff too, social event, sport, and the opportunities to meet with Ellis fellows ! Spread the announcement !
 
-We invite you to book accommodation on site, as the idea is really to stay together. The campus is very pleasant, with nice walks and easy access to sports facilities.
+We invite you to book accommodation on site, as the idea is really to stay
+together. The campus is very pleasant, with nice walks and easy access to sports
+facilities.
+
+<img src="imgs/hiparis.png" alt="Hi Paris">
+<img src="imgs/ellis.png" alt="ELLIS">
