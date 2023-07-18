@@ -37,12 +37,12 @@ Two types of talks will be considered:
 2. **An ICML paper of your choice:**  - 5 min lightning talk
 
 Tentative list of workshops:
-1. Optimal transport and kernel methods
-2. Theory of ML.
-3. Stochastic Optimization.
-4. Robustness, fairness and explainability
-5. Generative models
-6. Reinforcement Learning
+1. Optimal transport and kernel methods (Chair: Rémi Flammary)
+2. Theory of ML. (Chair: TBD)
+3. Stochastic Optimization. (Chair: Aymeric Dieuleveut)
+4. Robustness, fairness and explainability (Chair: Florence d'Alché Buc)
+5. Generative models  (Chair: )
+6. Reinforcement Learning (Chair: )
 
 
 
