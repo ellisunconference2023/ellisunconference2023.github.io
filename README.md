@@ -36,8 +36,8 @@ Tentative list of workshops:
 3. Robustness, fairness explainability
 4. Generative models
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&mode=WEEK&title=ELLIS%20Unconference%202023&showNav=1&hl=en&src=ZTA4ODZjZDcwMmQ0Njg5YzE0MDZmZDQxOWVjMjI3Yjg5MGM3M2U4NmQ0OTcyYzYxYTRiYTgzNTI3YjA0MDAyMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF&dates=20230723/20230729" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&mode=WEEK&hl=en&src=ZTA4ODZjZDcwMmQ0Njg5YzE0MDZmZDQxOWVjMjI3Yjg5MGM3M2U4NmQ0OTcyYzYxYTRiYTgzNTI3YjA0MDAyMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%234285F4&dates=20230723/20230729" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
