@@ -16,16 +16,14 @@ together. The campus is very pleasant, with nice walks and easy access to sports
 facilities.
 
 
-## Program
-Format and program:
-### Sunday
-Welcome and presentation
+## Format and program:
 
+### Sunday
+Welcome and presentation.
 
 ### Monday
 1. Morning: workshop forums. Each participant will be given the opportunity to suggest and or pick paper to present as lightning talks durign the workshops from Tuesday to  Thursday
 2. Afternoon: Plenary Talks
-
 
 ### Tuesday to Thursday:
 Thematic workshops will be organized to present the participants works and work that is presented at ICML.
