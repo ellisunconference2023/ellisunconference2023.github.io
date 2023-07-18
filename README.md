@@ -36,5 +36,5 @@ Two types of talks will be considered:1. Your own work. 20 min talk on a recentl
 
 ## Partners
 
-<img src="imgs/hiparis.png" alt="Hi Paris" style="height:150px;">
-<img src="imgs/ellis.png" alt="ELLIS" style="height:150px;">
+<img src="imgs/footer.jpg" alt="Hi Paris" style="height:200px;">
+
