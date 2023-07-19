@@ -36,15 +36,15 @@ Two types of talks will be considered:
 1. **Your own work.**  -  20 min talk on a recently published or submitted paper (ICML23 or not)
 2. **An ICML paper of your choice:**  - 5 min lightning talk
 
-There will be a poster sessions.
+There will be poster sessions and plenty of time to discuss
 
 Tentative list of workshops:
-1. Optimal transport and kernel methods (Chair: Rémi Flamary)
-2. Theory of ML. (Chair: Laurent Massoulié - TBC-)
-3. Stochastic Optimization. (Chair: Aymeric Dieuleveut)
-4. Robustness, fairness and explainability (Chair: Florence d'Alché Buc)
-5. Generative models  (Chair: Aain Durmus)
-6. Reinforcement Learning (Chair:  Eric Moulines)
+1. Optimal transport and kernel methods (Chair: Rémi Flamary <remi.flamary@polytechnique.edu>)
+2. Theory of ML. (Chair: Laurent Massoulié -TBC- <laurent.massoulie@inria.fr>)
+3. Stochastic Optimization. (Chair: Aymeric Dieuleveut <aymeric.dieuleveut@polytechnique.edu>)
+4. Robustness, fairness and explainability (Chair: Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Florence d'Alché Buc)
+5. Generative models  (Chair: Alain Oliviero-Durmus <alain.durmus@polytechnique.edu>)
+6. Reinforcement Learning (Chair:  Eric Moulines <eric.moulines@polytechnique.edu>)
 
 Other workshops will be announced quickly !
 
