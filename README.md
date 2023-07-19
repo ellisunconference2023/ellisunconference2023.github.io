@@ -42,7 +42,7 @@ Tentative list of workshops:
 1. Optimal transport and kernel methods (Chair: Rémi Flamary <remi.flamary@polytechnique.edu>)
 2. Theory of ML. (Chair: Laurent Massoulié -TBC- <laurent.massoulie@inria.fr>)
 3. Stochastic Optimization. (Chair: Aymeric Dieuleveut <aymeric.dieuleveut@polytechnique.edu>)
-4. Robustness, fairness and explainability (Chair: Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Florence d'Alché Buc)
+4. Robustness, fairness and explainability (Chair: Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Jayneel Parekh <jayneel.parekh@telecom-paris.fr>, Florence d'Alché Buc <florence.dalche@telecom-paris.fr>)
 5. Generative models  (Chair: Alain Oliviero-Durmus <alain.durmus@polytechnique.edu>)
 6. Reinforcement Learning (Chair:  Eric Moulines <eric.moulines@polytechnique.edu>)
 
