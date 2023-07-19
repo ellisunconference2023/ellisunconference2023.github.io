@@ -53,6 +53,10 @@ Other workshops will be announced quickly !
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&mode=WEEK&hl=en&src=ZTA4ODZjZDcwMmQ0Njg5YzE0MDZmZDQxOWVjMjI3Yjg5MGM3M2U4NmQ0OTcyYzYxYTRiYTgzNTI3YjA0MDAyMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%234285F4&dates=20230723/20230729" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
+## Un-Organizing  committee
+
+Scientific Committee: Florence d'Alché Buc, Aymeric Dieuleveut, Alain Durmus, Rémi Flamary, Eric Moulines.
+
 ## Partners
 
 <img src="imgs/footer.jpg" alt="Hi Paris" style="height:200px;">
