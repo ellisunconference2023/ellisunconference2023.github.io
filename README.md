@@ -36,13 +36,17 @@ Two types of talks will be considered:
 1. **Your own work.**  -  20 min talk on a recently published or submitted paper (ICML23 or not)
 2. **An ICML paper of your choice:**  - 5 min lightning talk
 
+There will be a poster sessions.
+
 Tentative list of workshops:
 1. Optimal transport and kernel methods (Chair: Rémi Flamary)
-2. Theory of ML. (Chair: TBD)
+2. Theory of ML. (Chair: Laurent Massoulié - TBC-)
 3. Stochastic Optimization. (Chair: Aymeric Dieuleveut)
 4. Robustness, fairness and explainability (Chair: Florence d'Alché Buc)
-5. Generative models  (Chair: )
-6. Reinforcement Learning (Chair:  )
+5. Generative models  (Chair: Aain Durmus)
+6. Reinforcement Learning (Chair:  Eric Moulines)
+
+Other workshops will be announced quickly !
 
 
 
