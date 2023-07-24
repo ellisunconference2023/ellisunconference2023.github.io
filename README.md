@@ -20,11 +20,15 @@ As night falls, we will provide opportunities to connect live to ICML tutorials,
 The event will take place on the HEC campus near Paris at the following address:
 1 Rue de la Libération, 78350 Jouy-en-Josas.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5260.275734760226!2d2.1624203988731847!3d48.76016343527577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67ec8e3d754c7%3A0x3b78097417629c76!2sHEC%20Paris!5e0!3m2!1sen!2sfr!4v1689861781888!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2630.324560174472!2d2.16409207719235!3d48.75659797131861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f16c7fd0703%3A0x3d5b911697a94d9b!2sB%C3%A2timent%20T%2C%20HEC%20Paris!5e0!3m2!1sen!2sfr!4v1690184593206!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 You can reach HEC by public transport such as RER C up to Jouy-en-Josas
 station followed by bus 32 outside the Jouy-en-Josas train station toward
-HEC Campus (or a walk). [More details here](https://www.hec.edu/en/maps-and-directions)
+HEC Campus (or a walk). [More details
+here](https://www.hec.edu/en/maps-and-directions).
+
+The unconference will take place in the T building, of HEC Paris.
+
 
 
 ## Format and program:
