@@ -8,7 +8,7 @@ The concept of the "unconference" diverges substantially from that of the conven
 
 Our program incorporates the organization of themed workshops that stimulate in-depth  exploration of particular areas of interest. Furthermore, we have arranged dedicated workspaces for individuals or small groups eager to delve profoundly into their chosen subjects.
 
-As night falls, we will provide opportunities to connect live to ICML tutorials, thus, enhancing knowledge acquisition and exposure to experts in the field. Additionally, we intend to host insightful discussions, encouraging the participants to share their perspectives, debate on relevant issues, and contribute to the collective wisdom.
+As night falls, we will provide opportunities to connect live to ICML tutorials, thus, enhancing knowledge acquisition and exposure to experts in the field. Additionally, we intend to host insightful discussions, encouraging the participants to share their perspectives, debate on relevant issues, and contribute to collective wisdom.
 
 <!-- All this is free for Scholar / Fellow Ellis and Hi! members. Paris members. It's also free for two students chosen by Scholar / Fellow Ellis. For the others, you'll have to pay, but the costs are affordable, and cover everything from conference participation to lunches and dinners, and tutorial evenings! There'll be plenty of other stuff too, social event, sport, and the opportunities to meet with Ellis fellows ! Spread the announcement ! -->
 
@@ -43,7 +43,7 @@ Welcome and presentation.
 3. **Poster session** - bring your posters - ICML and  others.
 
 ### Tuesday to Thursday:
-Thematic workshops will be organized to present the participants accepted papers and works that are presented at ICML.
+Thematic workshops will be organized to present the participants' accepted papers and works that are presented at ICML.
 
 Each workshop will be organized in 2 sessions, one in the morning 10:30-12:30, and one in the afternoon, 14:30-16:30.
 
@@ -57,8 +57,8 @@ Tentative list of workshops:
 1. Optimal transport, kernel methods and generative models (Chair: Rémi Flamary
    <remi.flamary@polytechnique.edu>, Alain Oliviero-Durmus <alain.durmus@polytechnique.edu>)
 2. Stochastic Optimization. (Chair: Aymeric Dieuleveut <aymeric.dieuleveut@polytechnique.edu>)
-3. Robustness, fairness and explainability (Chair: Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Jayneel Parekh <jayneel.parekh@telecom-paris.fr>, Florence d'Alché Buc <florence.dalche@telecom-paris.fr>)
-4. Reinforcement Learning (Chair:  Eric Moulines <eric.moulines@polytechnique.edu>)
+3. Robustness, fairness and explainability (Chair: Quentin Bouniot <quentin.bouniot@telecom-paris.fr>, Jayneel Parekh <jayneel.parekh@telecom-paris.fr>)
+4. Reinforcement Learning and ML theory (Chair:  Eric Moulines <eric.moulines@polytechnique.edu>)
 
 Other workshops will be announced quickly !
 
